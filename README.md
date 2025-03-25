@@ -28,14 +28,14 @@ This project implements a real-time AI inference and image processing pipeline u
 
 ## Example Outputs  
 
-### 1. AI Inference Result  
-![AI Inference](1.png)  
+### 1. Unhealthy meat with defect 1   
+![Unhealthy meat with defect 1](1.png)  
 
-### 2. Zone Detection  
-![Zone detection](2.png)  
+### 2. Unhealthy meat with defect 2
+![Unhealthy meat with defect 2](2.png)  
 
-### 3. Training Loss & Accuracy Cu
-![Zone detection](3.png)  
+### 3. Healthy meat 
+![Healthy meat](3.png)  
 
 ## Installation & Usage  
 
