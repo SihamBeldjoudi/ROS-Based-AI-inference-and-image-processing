@@ -26,6 +26,16 @@ This project implements a real-time AI inference and image processing pipeline u
   - The **coordinates of the red zone center** (`ai/red_zone_center`)  
 - Integrates with inference to display classification results on the image
 
+## Example Outputs  
+
+### 1. AI Inference Result  
+![AI Inference](images/1.png)  
+
+### 2. Zone Detection  
+![Zone detection](images/2.png)  
+
+### 3. Training Loss & Accuracy Cu
+![Zone detection](images/3.png)  
 
 ## Installation & Usage  
 
